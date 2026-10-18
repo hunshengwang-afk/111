@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\kate_BoxingShorts.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_BoxingShorts.fbx</m_FemaleModel>
+	<m_GUID>2ebe0059-092d-4a6e-9679-287a6d04938c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	<textureChoices>clothes\shorts_textures\boxingshorts_red</textureChoices>
+</clothingItem>

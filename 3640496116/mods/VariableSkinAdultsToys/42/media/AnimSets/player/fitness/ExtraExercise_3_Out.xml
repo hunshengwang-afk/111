@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animNode>
+	<m_Name>ExtraExercise_3_Out</m_Name>
+	<m_AnimName>Bob_ZiWei01_Out</m_AnimName>
+	<m_BlendTime>0.10</m_BlendTime>
+	<m_SpeedScale>1.0</m_SpeedScale>
+	<m_Looped>false</m_Looped>
+	<m_SyncTrackingEnabled>false</m_SyncTrackingEnabled>
+	<m_Conditions x_name="167c96e9-003f-434a-85f2-3502b227e536">
+		<m_Name>ExerciseType</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_Value>extraexercise_3</m_Value>
+	</m_Conditions>
+	<m_Conditions x_name="d3b6e7ce-02b1-49f8-80a9-dc00bb6a0e72">
+		<m_Name>ExerciseEnded</m_Name>
+		<m_Type>BOOL</m_Type>
+		<m_Value>true</m_Value>
+	</m_Conditions>
+	<m_Events x_name="c56cbc33-bf4a-44b0-a9e5-9797c8a61082">
+		<m_EventName>SetVariable</m_EventName>
+		<m_Time>End</m_Time>
+		<m_ParameterValue>FitnessFinished=TRUE</m_ParameterValue>
+	</m_Events>
+</animNode>

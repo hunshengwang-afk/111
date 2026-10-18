@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_HockeyShinpads_R.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_HockeyShinpads_R.x</m_FemaleModel>
+	<m_AltMaleModel>media\models_X\Skinned\Clothes\Bob_HockeyShinpads_R.x</m_AltMaleModel>
+	<m_AltFemaleModel>media\models_X\Skinned\Clothes\Kate_HockeyShinpads_R.x</m_AltFemaleModel>
+	<m_GUID>0e925d97-132d-429e-8ca5-d9a1514ed545</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\armor\hockeyshinpads_r_white</textureChoices>
+	<m_SpawnWith>484f87ca-4e85-4645-9e45-cabc89b043a2</m_SpawnWith>
+</clothingItem>

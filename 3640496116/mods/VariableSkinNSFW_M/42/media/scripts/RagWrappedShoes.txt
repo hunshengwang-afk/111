@@ -1,0 +1,51 @@
+module Base
+{
+
+
+
+
+
+item RagWrappedShoes
+    {
+        DisplayCategory = Clothing,
+        Tags = base:ripclothingleather;base:noragdoll;base:NoBloodNoDirt,
+        Weight	=	0.2,
+        ItemType = base:clothing,
+        Insulation = 0.2,
+        DisplayName	=	"布条鞋RagWrappedShoes",
+        StompPower = 3,
+        ConditionLowerChanceOneIn = 10,
+        ConditionMax = 70,
+        RunSpeedModifier = 1.1,
+        RemoveOnBroken = false,
+        ScratchDefense = 100,
+        BiteDefense = 100,
+        WindResistance = 1.0,
+        WaterResistance = 0.8,
+        Icon = Rag,
+        BodyLocation = base:Shoes,
+        BloodLocation = Shoes;LowerLegs,,
+        ClothingItem = RagWrappedShoes,
+        FabricType = Cotton,
+        WorldStaticModel = GunCase_Ground,
+    }
+
+craftRecipe 制作布条鞋RagWrappedShoes
+	{
+        timedAction = SewingCloth,
+        Time = 0,
+        Tags = InHandCraft;CanBeDoneInDark,
+        AllowBatchCraft = false,
+        
+        category = 可变身形VSGirlBody,
+        inputs
+        {
+            item 10 [Base.RippedSheets],
+        }
+        outputs
+        {
+        	item 1 Base.RagWrappedShoes,
+        }
+	}
+	
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\bob_longshorts</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_longshorts</m_FemaleModel>
+	<m_GUID>360606f0-f556-43b3-83be-0040dcc28443</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	<textureChoices>clothes\shorts_textures\longshorts_camourban</textureChoices>
+</clothingItem>

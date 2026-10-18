@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>aa6581be-3751-4e9c-b810-2fd6e5d3fbbd</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>bodydmg\m_zeddmg_shoulderslashleft</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_shoulderslashright</m_BaseTextures>
+</clothingItem>

@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item CZZFhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = CZZFhair,
+		ClothingItem = CZZFhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = CZZFhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+	
+
+}

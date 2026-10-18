@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel>skinned\hair\kate_hair_long2</m_FemaleModel>
+	<m_GUID>ea195df0-02aa-465f-9e7e-9f64573aad8e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+</clothingItem>

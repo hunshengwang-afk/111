@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>45a7bc78-ffa8-4480-b786-33e8702125d1</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\armor\Shinpad_L_Red</m_BaseTextures>
+	<m_SpawnWith>483814d9-2f0a-4493-86c1-7a2409f31ebd</m_SpawnWith>
+</clothingItem>

@@ -1,0 +1,52 @@
+local requireItemFor1, requireItemFor2 = "Base.Pistol", "Base.BaseballBat"
+
+local function PassType1()
+    if getSpecificPlayer(0):getPrimaryHandItem() == nil then
+        local item = getSpecificPlayer(0):getInventory():AddItem(requireItemFor1)
+        local name = item:getDisplayName()
+        getSpecificPlayer(0):Say("Need " .. name)
+        getSpecificPlayer(0):getInventory():DoRemoveItem(item)
+        return
+    end
+
+    if not (getSpecificPlayer(0):getPrimaryHandItem():getModule() .. "." .. getSpecificPlayer(0):getPrimaryHandItem():getType()) == requireItemFor1 then
+        local item = getSpecificPlayer(0):getInventory():AddItem(requireItemFor1)
+        local name = item:getDisplayName()
+        getSpecificPlayer(0):Say("Need " .. name)
+        getSpecificPlayer(0):getInventory():DoRemoveItem(item)
+        return
+    end
+
+    ISTimedActionQueue.add(ExtraExercisesAction:new(getSpecificPlayer(0), 1))
+end
+
+local function PassType2()
+    if getSpecificPlayer(0):getPrimaryHandItem() == nil then
+        local item = getSpecificPlayer(0):getInventory():AddItem(requireItemFor2)
+        local name = item:getDisplayName()
+        getSpecificPlayer(0):Say("Need " .. name)
+        getSpecificPlayer(0):getInventory():DoRemoveItem(item)
+        return
+    end
+
+    if not (getSpecificPlayer(0):getPrimaryHandItem():getModule() .. "." .. getSpecificPlayer(0):getPrimaryHandItem():getType()) == requireItemFor2 then
+        local item = getSpecificPlayer(0):getInventory():AddItem(requireItemFor2)
+        local name = item:getDisplayName()
+        getSpecificPlayer(0):Say("Need " .. name)
+        getSpecificPlayer(0):getInventory():DoRemoveItem(item)
+        return
+    end
+
+    ISTimedActionQueue.add(ExtraExercisesAction:new(getSpecificPlayer(0), 2))
+end
+
+local function OnFillWorldObjectContextMenu(playerNum, context, worldObjects, test)
+    local submenu = ISContextMenu:getNew(context)
+    local submenuOption = context:addOption(getText("ContextMenu_MainExtraExercises"), nil, pass)
+
+    context:addSubMenu(submenuOption, submenu)
+    submenu:addOption(getText("ContextMenu_ExtraExercises1"), getSpecificPlayer(0), PassType1)
+    submenu:addOption(getText("ContextMenu_ExtraExercises2"), getSpecificPlayer(0), PassType2)
+end
+
+Events.OnFillWorldObjectContextMenu.Add(OnFillWorldObjectContextMenu)

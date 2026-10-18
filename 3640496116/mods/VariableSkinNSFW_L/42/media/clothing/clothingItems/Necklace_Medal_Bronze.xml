@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\M_SportsMedal.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\F_SportsMedal.x</m_FemaleModel>
+	<m_GUID>e1eb4bab-61a3-4c48-81a6-7e7927d6d538</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>medal_bronze</textureChoices>
+</clothingItem>

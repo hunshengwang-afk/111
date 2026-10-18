@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_GUID>d2449730-b56b-498d-81a8-f9140b9eb2bb</m_GUID>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Earring_BirdSkull.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Earring_BirdSkull.x</m_FemaleModel>
+	<m_AltMaleModel></m_AltMaleModel>
+	<m_AltFemaleModel></m_AltFemaleModel>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>worlditems\earrings_birdskull</textureChoices>
+</clothingItem>

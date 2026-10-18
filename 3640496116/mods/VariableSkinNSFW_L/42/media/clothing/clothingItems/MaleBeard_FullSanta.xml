@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\beards\bob_beard_full</m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>0251cd52-5766-4693-bb3f-d3125afa4b6e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>bk\f_hair_white</textureChoices>
+</clothingItem>

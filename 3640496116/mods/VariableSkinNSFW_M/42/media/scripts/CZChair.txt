@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item CZChair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = CZChair,
+		ClothingItem = CZChair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = CZChair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+	
+
+}

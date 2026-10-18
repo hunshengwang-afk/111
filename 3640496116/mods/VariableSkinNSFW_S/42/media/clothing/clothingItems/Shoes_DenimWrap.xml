@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>xiezi</m_MaleModel>
+	<m_FemaleModel>F_xiezi</m_FemaleModel>
+	<m_GUID>071fa582-2440-4ae0-bb69-71facd6bdefe</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\shoes_socks_textres\socks_ragdenim</textureChoices>
+</clothingItem>

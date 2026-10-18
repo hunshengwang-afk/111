@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_GUID>08bd00de-753f-4b2c-8150-fb4cd9c97a39</m_GUID>
+	<m_MaleModel>skinned\clothes\bob_trousers</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_trousers</m_FemaleModel>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	
+	
+	<textureChoices>clothes\trousers_mesh\Trousers_Camo_DCU</textureChoices>
+</clothingItem>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_Kneepad_L.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_Kneepad_L.x</m_FemaleModel>
+	<m_AltMaleModel>media\models_X\Skinned\Clothes\Bob_Kneepad_L_ALT.x</m_AltMaleModel>
+	<m_AltFemaleModel>media\models_X\Skinned\Clothes\Kate_Kneepad_L_ALT.x</m_AltFemaleModel>
+	<m_GUID>c20eb725-802b-4393-8b2e-825d44584047</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\armor\kneepad_military_left</textureChoices>
+	<m_SpawnWith>3471a186-0e7b-4ad7-8d52-3f4f1af26100</m_SpawnWith>
+</clothingItem>

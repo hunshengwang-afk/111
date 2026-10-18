@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\bob_spiffosuit</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\bob_spiffosuit</m_FemaleModel>
+	<m_AltMaleModel>null</m_AltMaleModel>
+	<m_AltFemaleModel>null</m_AltFemaleModel>
+	<m_GUID>50659e76-dc71-4398-9cc1-d3ab17bd8406</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<textureChoices>clothes\spiffosuit\spiffosuit</textureChoices>
+	<m_SpawnWith>5fe680b9-6c78-44a6-9037-2087be56404c</m_SpawnWith>
+</clothingItem>

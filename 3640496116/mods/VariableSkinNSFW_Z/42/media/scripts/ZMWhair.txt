@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item ZMWhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = ZMWhair,
+		ClothingItem = ZMWhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = ZMWhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+	
+
+}

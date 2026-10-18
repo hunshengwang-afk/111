@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>8b5ecaac-0a7b-4cdb-ba6d-dd69be8dc108</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashcentre01</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashcentre02</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashcentre03</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashleft01</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashleft02</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashleft03</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashleftback01</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashleftback02</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashright01</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashright02</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashright03</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashrightback01</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_headslashrightback02</m_BaseTextures>
+</clothingItem>

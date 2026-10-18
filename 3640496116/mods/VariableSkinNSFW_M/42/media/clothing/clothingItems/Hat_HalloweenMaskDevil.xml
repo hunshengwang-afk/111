@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Mask.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Mask.x</m_FemaleModel>
+	<m_GUID>f07c1207-8a0b-4be1-9b9f-7aea1b73b598</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\hat\halloweenmask_devil</textureChoices>
+</clothingItem>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\kate_boilersuit</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_boilersuit</m_FemaleModel>
+	<m_GUID>b9b611ea-129d-4e00-986c-b7bcc7bcdcbe</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	
+	
+	
+	<textureChoices>clothes\boliersuit\boilersuit_prisonerkhaki</textureChoices>
+</clothingItem>

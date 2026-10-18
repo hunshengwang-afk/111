@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Earring_Stud_Both.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Earring_Stud_Both.X</m_FemaleModel>
+	<m_GUID>570f2884-f8d9-4e8a-a796-864f691a29fe</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>earringruby</textureChoices>
+</clothingItem>

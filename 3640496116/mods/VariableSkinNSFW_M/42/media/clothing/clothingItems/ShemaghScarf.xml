@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_Shemagh_Down.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_Shemagh_Down.x</m_FemaleModel>
+	<m_GUID>9733f7a9-d939-4b25-a1f0-f9b42bc1c3dd</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\hat\shemaghscarf_blackpattern</textureChoices>
+	<textureChoices>clothes\hat\shemaghscarf_bluepattern</textureChoices>
+	<textureChoices>clothes\hat\shemaghscarf_green</textureChoices>
+	<textureChoices>clothes\hat\shemaghscarf_red</textureChoices>
+	<textureChoices>clothes\hat\shemaghscarf_redpattern</textureChoices>
+</clothingItem>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\beards\bob_beard_goatee</m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>84f4a121-8a72-46a8-bc6d-38794f2699c2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>bk\f_hair_black</textureChoices>
+	<textureChoices>bk\f_hair_blonde</textureChoices>
+	<textureChoices>bk\f_hair_brown</textureChoices>
+	<textureChoices>bk\f_hair_browndark</textureChoices>
+	<textureChoices>bk\f_hair_brownlight</textureChoices>
+	<textureChoices>bk\f_hair_grey</textureChoices>
+	<textureChoices>bk\f_hair_red</textureChoices>
+	<textureChoices>bk\f_hair_white</textureChoices>
+</clothingItem>

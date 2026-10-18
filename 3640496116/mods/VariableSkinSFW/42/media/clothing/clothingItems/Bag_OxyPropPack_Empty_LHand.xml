@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\BackPacks\OxyPropPack_Empty_LHand.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\BackPacks\OxyPropPack_Empty_LHand.x</m_FemaleModel>
+	<m_AltMaleModel></m_AltMaleModel>
+	<m_AltFemaleModel></m_AltFemaleModel>
+	<m_GUID>600d31d3-f52e-44f1-a8b8-6663d99574e8</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\bag\oxygenpropanebackpack</textureChoices>
+</clothingItem>

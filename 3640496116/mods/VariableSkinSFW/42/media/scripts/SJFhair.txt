@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item SJFhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = SJFhair,
+		ClothingItem = SJFhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = SJFhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+
+
+}

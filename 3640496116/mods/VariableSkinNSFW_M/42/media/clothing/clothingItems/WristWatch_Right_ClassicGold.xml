@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_WristWatch_Round_Right.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_WristWatch_Round_Right.X</m_FemaleModel>
+	<m_GUID>68786117-452e-4d34-a5ed-d7f54b83bcf7</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_R_Forearm</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>wristwatch_gold</textureChoices>
+</clothingItem>

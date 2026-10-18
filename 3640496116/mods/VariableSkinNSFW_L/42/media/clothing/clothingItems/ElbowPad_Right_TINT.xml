@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_ElbowPad_R.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_ElbowPad_R.x</m_FemaleModel>
+	<m_AltMaleModel>media\models_X\Skinned\Clothes\Bob_ElbowPad_R_ALT.x</m_AltMaleModel>
+	<m_AltFemaleModel>media\models_X\Skinned\Clothes\Kate_ElbowPad_R_ALT.x</m_AltFemaleModel>
+	<m_GUID>38b54c91-8eb3-4b84-8b15-33c1e1c32e5d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>true</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\armor\elbowpad_sport</textureChoices>
+	<m_SpawnWith>cfbe2f30-f01f-4efb-bc1f-d34f4f434dc2</m_SpawnWith>
+</clothingItem>

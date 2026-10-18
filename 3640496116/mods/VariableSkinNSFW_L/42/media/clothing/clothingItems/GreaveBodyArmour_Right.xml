@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_GUID>c353bdb6-1d54-4635-989c-e1df4b70d147</m_GUID>
+	<m_MaleModel>media\models_X\Static\Clothes\Bob_Greave_BodyArmour_R.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\Kate_Greave_BodyArmour_R.x</m_FemaleModel>
+	<m_AltMaleModel>media\models_X\Static\Clothes\Bob_Greave_BodyArmour_R_ALT.x</m_AltMaleModel>
+	<m_AltFemaleModel>media\models_X\Static\Clothes\Kate_Greave_BodyArmour_R_ALT.x</m_AltFemaleModel>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_R_Calf</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\armor\greaves_bodyarmour_r_army</textureChoices>
+	<textureChoices>clothes\armor\greaves_bodyarmour_r_civ</textureChoices>
+	<textureChoices>clothes\armor\greaves_bodyarmour_r_police</textureChoices>
+	<textureChoices>clothes\armor\greaves_bodyarmour_r_swat</textureChoices>
+	<textureChoices>clothes\armor\greaves_bodyarmour_r_desert</textureChoices>
+</clothingItem>

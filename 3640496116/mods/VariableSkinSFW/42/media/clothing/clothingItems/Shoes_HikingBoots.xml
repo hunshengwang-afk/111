@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>xiezi</m_MaleModel>
+	<m_FemaleModel>F_xiezi</m_FemaleModel>
+	<m_GUID>52fd75af-0c34-4d2c-9894-a8e791ffe592</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\shoes_socks_textres\armyboots_desert</textureChoices>
+</clothingItem>

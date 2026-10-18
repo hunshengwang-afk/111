@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>f2baf216-76d7-42b5-8099-bfa93510609b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>bodydmg\m_zeddmg_faceskullleft</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_faceskullright</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_mouth01</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_mouth02</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_mouthleft</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_mouthright</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_nochin</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_noearleft</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_noearright</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_nonose</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_skullcap</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_skullupleft</m_BaseTextures>
+	<m_BaseTextures>bodydmg\m_zeddmg_skullupright</m_BaseTextures>
+</clothingItem>

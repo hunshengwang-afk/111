@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item TRChair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = TRChair,
+		ClothingItem = TRChair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = TRChair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+
+
+}

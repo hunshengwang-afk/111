@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel>skinned\hair\kate_hair_bob</m_FemaleModel>
+	<m_GUID>c29abb1e-aaa9-42c6-965c-e325cdddc0f9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>bk\f_hair_black</textureChoices>
+	<textureChoices>bk\f_hair_blonde</textureChoices>
+	<textureChoices>bk\f_hair_brown</textureChoices>
+	<textureChoices>bk\f_hair_browndark</textureChoices>
+	<textureChoices>bk\f_hair_brownlight</textureChoices>
+	<textureChoices>bk\f_hair_grey</textureChoices>
+	<textureChoices>bk\f_hair_red</textureChoices>
+	<textureChoices>bk\f_hair_white</textureChoices>
+</clothingItem>

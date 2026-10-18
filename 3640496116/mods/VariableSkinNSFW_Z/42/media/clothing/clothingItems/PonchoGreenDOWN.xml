@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_GUID>2cfe07c1-329a-479a-9974-c73742e13be1</m_GUID>
+	<m_MaleModel>skinned\clothes\kate_ponchodown</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_ponchodown</m_FemaleModel>
+	<m_AltMaleModel></m_AltMaleModel>
+	<m_AltFemaleModel></m_AltFemaleModel>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	
+	
+	<m_MasksFolder>media/textures/Clothes/Poncho/Masks_Down</m_MasksFolder>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Poncho/Masks_Down</m_UnderlayMasksFolder>
+	<textureChoices>clothes\poncho\poncho_green</textureChoices>
+</clothingItem>

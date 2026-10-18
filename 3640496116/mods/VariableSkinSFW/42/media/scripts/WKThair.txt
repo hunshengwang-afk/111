@@ -1,0 +1,20 @@
+module Base
+{
+
+
+    item WKThair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = WKThair,
+		ClothingItem = WKThair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = WKThair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+
+
+
+}

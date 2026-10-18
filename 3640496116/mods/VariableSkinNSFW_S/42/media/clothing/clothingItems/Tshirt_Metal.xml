@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>11d73535-131e-42a9-a206-b5b7eb2fe4de</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_DecalGroup>TShirtMetal</m_DecalGroup>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\tshirt_black</m_BaseTextures>
+</clothingItem>

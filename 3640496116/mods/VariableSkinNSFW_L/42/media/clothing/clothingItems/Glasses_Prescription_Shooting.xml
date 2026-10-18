@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\m_glasses_shooting</m_MaleModel>
+	<m_FemaleModel>static\clothes\f_glasses_shooting</m_FemaleModel>
+	<m_GUID>8e57850b-bb21-4183-b2e7-8782e5960162</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>shootingglasses</textureChoices>
+</clothingItem>

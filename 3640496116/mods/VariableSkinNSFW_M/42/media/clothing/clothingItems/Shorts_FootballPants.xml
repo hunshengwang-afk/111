@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_AltMaleModel></m_AltMaleModel>
+	<m_AltFemaleModel></m_AltFemaleModel>
+	<m_GUID>12a5f578-ad60-428f-8b97-07ce33e04cbd</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\shorts_textures\footballpants_black</m_BaseTextures>
+	<m_BaseTextures>clothes\shorts_textures\footballpants_gold</m_BaseTextures>
+	<m_BaseTextures>clothes\shorts_textures\footballpants_white</m_BaseTextures>
+</clothingItem>

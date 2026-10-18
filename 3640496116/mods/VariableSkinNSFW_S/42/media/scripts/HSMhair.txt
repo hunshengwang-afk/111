@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item HSMhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = HSMhair,
+		ClothingItem = HSMhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = HSMhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+
+
+}

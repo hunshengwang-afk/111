@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item LJhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = LJhair,
+		ClothingItem = LJhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = LJhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+
+
+}

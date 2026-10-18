@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>0148b7be-791a-4433-8a0a-5f843e998b0c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>true</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\TShirt_TieDye_1</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\TShirt_TieDye_2_NoCND</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\TShirt_TieDye_2</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\TShirt_TieDye_3</m_BaseTextures>
+</clothingItem>

@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item CZYhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = CZYhair,
+		ClothingItem = CZYhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = CZYhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+	
+
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\M_NecklaceLong_Stone.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\F_NecklaceLong_Stone.X</m_FemaleModel>
+	<m_GUID>81a92257-cb26-4034-923d-5f101f92eada</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>necklacelong_silversapphire</textureChoices>
+</clothingItem>

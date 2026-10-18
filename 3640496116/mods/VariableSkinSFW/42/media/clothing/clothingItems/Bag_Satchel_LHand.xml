@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\BackPacks\Satchel_LHand.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\BackPacks\Satchel_LHand.X</m_FemaleModel>
+	<m_GUID>876bf4c1-a516-491a-9ed9-33326b2ec41b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\bag\satchel</textureChoices>
+	<textureChoices>clothes\bag\satchel_green</textureChoices>
+	<textureChoices>clothes\bag\satchel_khaki</textureChoices>
+</clothingItem>

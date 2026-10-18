@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\kate_suitjacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_suitjacket</m_FemaleModel>
+	<m_GUID>55691903-3683-428c-a113-2562a78162cb</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	
+	
+	
+	<m_MasksFolder>media/textures/Clothes/SuitJacket/Masks</m_MasksFolder>
+	<m_UnderlayMasksFolder>media/textures/Clothes/SuitJacket/Masks_Underlay</m_UnderlayMasksFolder>
+	<textureChoices>clothes\suitjacket\suitjacketwhite</textureChoices>
+</clothingItem>

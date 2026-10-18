@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_IceHockey_Shoulderpads.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_IceHockey_Shoulderpads.x</m_FemaleModel>
+	<m_AltMaleModel></m_AltMaleModel>
+	<m_AltFemaleModel></m_AltFemaleModel>
+	<m_GUID>3ff4fa35-38e0-40f1-80df-8e842c3ff154</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\shirt_tshirt_textures\icehockeyshoulderpads</textureChoices>
+</clothingItem>

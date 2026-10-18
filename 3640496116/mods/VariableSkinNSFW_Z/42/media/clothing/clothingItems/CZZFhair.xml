@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>楚昭昭饭</m_MaleModel>
+	<m_FemaleModel>楚昭昭饭</m_FemaleModel>
+	<m_GUID>CZZFhair</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+   <m_HatCategory>nohair</m_HatCategory>
+	<textureChoices>楚昭昭饭</textureChoices>
+
+</clothingItem>

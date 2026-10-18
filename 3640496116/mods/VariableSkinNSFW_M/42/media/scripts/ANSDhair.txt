@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item ANSDhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = ANSDhair,
+		ClothingItem = ANSDhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = ANS1hair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+	
+
+}

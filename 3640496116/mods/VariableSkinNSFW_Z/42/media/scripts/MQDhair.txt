@@ -1,0 +1,19 @@
+module Base
+{
+
+
+    item MQDhair
+	{
+	    DisplayCategory = Accessory,
+		ItemType = base:clothing,
+		DisplayName = MQDhair,
+		ClothingItem = MQDhair,
+		BodyLocation = base:Ears,
+                                CanHaveHoles = false,
+		Icon = MQDhair,
+		Weight = 0.01,
+		WorldStaticModel = Earring_LoopSmallSilver_Ground,
+	}
+	
+
+}

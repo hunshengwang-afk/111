@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Bracelet_ChainLeft.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Bracelet_ChainLeft.X</m_FemaleModel>
+	<m_GUID>6eabafbb-d4b6-409f-9d13-d6165bb41d4f</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_L_Forearm</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>braceletchain_silver</textureChoices>
+</clothingItem>
